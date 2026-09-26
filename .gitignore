@@ -212,6 +212,8 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+model_data.pkl
+*.parquet
 __marimo__/
 
 # Streamlit
